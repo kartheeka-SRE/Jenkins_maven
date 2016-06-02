@@ -6,7 +6,7 @@ package com.mycompany.MyCompanySample;
  */
 public class App 
 {
-    pc static void main( String[] args )
+    public static void main( String[] args )
     {
         System.out.println( "Hello World! );
     }
